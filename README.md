@@ -1,5 +1,5 @@
 # Module 1 Challenge
-- This is a README for our first challenge
+- This is a README for our first challenge for our coding bootcamp
 ## Description 
 - Refactoring existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers
 ## What I did
