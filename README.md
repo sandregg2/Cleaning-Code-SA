@@ -11,3 +11,5 @@
 - To have a better understanding on indication of HTML elements and what they do
 ## Live URL
 https://sandregg2.github.io/module-1-challenge-seth/
+## Website screenshot
+<img src="01-html-css-git-homework-demo.png" width="600">
