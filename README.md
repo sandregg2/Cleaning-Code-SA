@@ -8,5 +8,6 @@
 - Reorganize the CSS into a logical structure
 ### Why
 - To practice on editing code for a more professional organized look
+- To have a better understanding on indication of HTML elements and what they do
 ## Live URL
 https://sandregg2.github.io/module-1-challenge-seth/
