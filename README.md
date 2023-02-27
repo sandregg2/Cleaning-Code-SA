@@ -1,1 +1,2 @@
-# module-1-challenge-seth
+# Introduction
+- This is a READ.ME for our first challenge.
