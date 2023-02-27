@@ -1,11 +1,16 @@
-# Introduction
-- This is a READ.ME for our first challenge.
-## What was done
+# Module 1 Challenge
+- This is a README for our first challenge
+## Description 
+- Refactoring existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers
+## What I did
 - Refactoring code by improving the existing code without changing what it does
 - Changed the HTML elements and CSS selectors that go together to have a coherent semantic structure
 - Added alt text where needed for images
 - Reorganize the CSS into a logical structure that is more organized
-### Why
+- Edited the heading attributes for a more sequential order
+- Added a concise, descriptive title
+- Changed the elements to follow a logical structure of styling and positioning
+### Why are we doing this?
 - To practice on editing code for a more professional organized look
 - To have a better understanding on indication of HTML elements and what they do
 ## Live URL
