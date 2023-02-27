@@ -9,7 +9,7 @@ Refactored code by improving the existing code without changing what it does
 - Added a concise, descriptive title
 - Added alt text where needed for images
 - Changed the elements to follow a logical structure for styling and positioning in the code
-### Why are we doing this?
+## Why are we doing this?
 - To practice on editing code for a more professional organized look
 - To have a better understanding on semantic HTML elements and what they indicate
 ## Our wesbite
