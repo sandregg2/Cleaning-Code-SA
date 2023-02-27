@@ -12,7 +12,7 @@
 - Changed the elements to follow a logical structure of styling and positioning
 ### Why are we doing this?
 - To practice on editing code for a more professional organized look
-- To have a better understanding on indication of HTML elements and what they do
+- To have a better understanding on indication of the HTML elements
 ## Live URL
 https://sandregg2.github.io/module-1-challenge-seth/
 ## Website screenshot
