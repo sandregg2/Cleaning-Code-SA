@@ -7,4 +7,6 @@
 - Rename CSS selectors and corresponding HTML elements into semantic sructure
 - Reorganize the CSS into a logical structure
 ### Why
-To practice on editing code for a more professional organized look.
+- To practice on editing code for a more professional organized look
+## Live URL
+https://sandregg2.github.io/module-1-challenge-seth/
