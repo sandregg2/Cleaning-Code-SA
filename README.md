@@ -14,5 +14,3 @@
 - To have a better understanding on semantic HTML elements and what they indicate
 ## Our wesbite
 https://sandregg2.github.io/module-1-challenge-seth/
-## Website screenshot
-<img src="01-html-css-git-homework-demo.png" width="600">
