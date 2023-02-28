@@ -1,6 +1,6 @@
 # Module 1 Challenge
 - This is a README for our first challenge for our coding bootcamp
-## Description 
+## Description of challenge
 - Refactoring existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers
 ## What I did in this assignment
 - Changed the HTML elements and CSS selectors that go together to have a coherent semantic structure
