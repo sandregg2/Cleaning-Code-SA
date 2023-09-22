@@ -13,4 +13,4 @@
 - To practice on editing code for a more professional organized look
 - To have a better understanding on semantic HTML elements and what they indicate
 ## Our wesbite
-https://sandregg2.github.io/module-1-challenge-seth/
+[https://sandregg2.github.io/module-1-challenge-seth/](https://sandregg2.github.io/Cleaning-Code-SA/)https://sandregg2.github.io/Cleaning-Code-SA/
